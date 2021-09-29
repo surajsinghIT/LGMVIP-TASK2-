@@ -8,3 +8,5 @@ Web app built using react js to get users and their details through an API call 
 IDE used: VS Code
 
 Languages: HTML, CSS, JavaScript
+
+LINK-https://surajsinghit.github.io/LGMVIP-TASK2-/
